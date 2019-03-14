@@ -1,13 +1,13 @@
 # Mooc_activities :construction_worker:
 Practical work from differents online MOOC 
-
+_Solution des activités_
 
 
 ## Open Class Room. :orange_book:
 ---------------
 ##### Cours avec Certificats ; _French MOOC_. 
 
-Si commentaire ou besoin d'explication pour n'importe quelle solution n'hésitez pas.
+Si vous avec un commentaire ou besoin d'explication pour une solution n'hésitez pas.
 
 Nom cours | Durée estimé | nombre d'activitées | lien vers le cours
 --- |--- |--- |--- |
