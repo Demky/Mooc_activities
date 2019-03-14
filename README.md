@@ -1,8 +1,8 @@
-# Mooc_activities
+# Mooc_activities :construction_worker:
 Practical work from differents online MOOC 
 
 
-## Open Class Room.
+## Open Class Room. :orange_book:
 ---------------
 ##### Cours avec Certificats ; _French MOOC_. 
 
