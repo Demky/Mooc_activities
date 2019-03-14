@@ -1,11 +1,15 @@
 # Mooc_activities :construction_worker:
 Practical work from differents online MOOC 
+<br>
 _Solution des activités_
 
 
 
 
 
+<br>
+<br>
+<br>
 
 
 
@@ -19,3 +23,10 @@ Si vous avec un commentaire ou besoin d'explication pour une solution n'hésitez
 Nom cours | Durée estimé | nombre d'activitées | lien vers le cours
 --- |--- |--- |--- |
 Apprenez à coder avec JavaScript | 20 hours | 2 | https://openclassrooms.com/fr/courses/2984401-apprenez-a-coder-avec-javascript
+
+
+
+<br>
+<br>
+<br>
+_More to come_
