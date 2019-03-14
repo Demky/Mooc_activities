@@ -18,7 +18,7 @@ class Contact {
 }
 
 let list_contacts = [];
-// ajouts initials requis dans l'énoncé
+// ajouts initiaux requis dans l'énoncé
 list_contacts.push(new Contact("Lévisse", "Carole"));
 list_contacts.push(new Contact("Nelsonne", "Mélodie"));
 
