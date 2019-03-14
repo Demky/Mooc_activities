@@ -3,6 +3,13 @@ Practical work from differents online MOOC
 _Solution des activités_
 
 
+
+
+
+
+
+
+
 ## Open Class Room. :orange_book:
 ---------------
 ##### Cours avec Certificats ; _French MOOC_. 
