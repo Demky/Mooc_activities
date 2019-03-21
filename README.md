@@ -1,11 +1,11 @@
-# Mooc_activities :construction_worker:
-Practical work from differents online MOOC, Exercices or Tests.
+# Online_Challenges :construction_worker:
+Practical work from differents online MOOC, Exercices, Tests; any Challenges.
 <br>
 
-_only approved solutions_
+_only approved solutions, all remarks are welcomes_
 
-_Solutions que j'ai proposé pour les différentes activitées, ces solutions ont été validé_
-
+_Solutions que j'ai proposé pour les différentes activitées, toutes les remarques sont les bienvenues_
+------
 
 
 
@@ -15,10 +15,22 @@ _Solutions que j'ai proposé pour les différentes activitées, ces solutions on
 <br>
 <br>
 
+## Folder name : JavaScript :baby_chick:
+---------------
 
 
 
-## Open Class Room. :orange_book:
+Challenge name | website | TODO ?
+--- |--- |--- |
+Replace With Alphabet Position | codewars | given a string, replace every letter with its position in the alphabet. <br> If anything in the text isn't a letter, ignore it and don't return it.
+
+
+<br>
+<br>
+<br>
+
+
+## Folder name : Open Class Room. :orange_book:
 ---------------
 ##### Cours avec Certificats ; _French MOOC_. 
 
