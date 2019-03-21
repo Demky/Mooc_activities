@@ -5,6 +5,7 @@ Practical work from differents online MOOC, Exercices, Tests; any Challenges.
 _only approved solutions, all remarks are welcomes_
 
 _Solutions que j'ai proposé pour les différentes activitées, toutes les remarques sont les bienvenues_
+
 ------
 
 
