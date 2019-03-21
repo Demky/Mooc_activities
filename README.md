@@ -1,7 +1,9 @@
 # Mooc_activities :construction_worker:
 Practical work from differents online MOOC, Exercices or Tests.
 <br>
+
 _only approved solutions_
+
 _Solutions que j'ai proposé pour les différentes activitées, ces solutions ont été validé_
 
 
