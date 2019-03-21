@@ -1,6 +1,6 @@
-# Online_Challenges :construction_worker:
+# Online Challenges :construction_worker:
 Practical work from differents online MOOC, Exercices, Tests; any Challenges.
-<br>
+<br><br>
 
 _only approved solutions, all remarks are welcomes_
 
@@ -17,7 +17,6 @@ _Solutions que j'ai proposé pour les différentes activitées, toutes les remar
 <br>
 
 ## Folder name : JavaScript :baby_chick:
----------------
 
 
 
@@ -32,7 +31,7 @@ Replace With Alphabet Position | codewars | given a string, replace every letter
 
 
 ## Folder name : Open Class Room. :orange_book:
----------------
+
 ##### Cours avec Certificats ; _French MOOC_. 
 
 Si vous avec un commentaire ou besoin d'explication pour une solution n'hésitez pas.
