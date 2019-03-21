@@ -22,7 +22,7 @@ _Solutions que j'ai proposé pour les différentes activitées, toutes les remar
 
 Challenge name | file name | website | TODO ?
 --- |--- |--- |--- |
-Replace With Alphabet Position | alphabetPosition.js | codewars | given a string, replace every letter with its position in the alphabet. <br> If anything in the text isn't a letter, ignore it and don't return it.
+Replace With Alphabet Position | alphabetPosition.js | codewars | Given a string, replace every letter with its position in the alphabet. <br> If anything in the text isn't a letter, ignore it and don't return it.
 
 
 <br>
