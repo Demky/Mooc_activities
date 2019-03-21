@@ -19,7 +19,6 @@ _Solutions que j'ai proposé pour les différentes activitées, toutes les remar
 ## Folder name : JavaScript :baby_chick:
 
 
-
 Challenge name | file name | website | TODO ?
 --- |--- |--- |--- |
 Replace With Alphabet Position | alphabetPosition.js | codewars | Given a string, replace every letter with its position in the alphabet. <br> If anything in the text isn't a letter, ignore it and don't return it.
@@ -28,6 +27,17 @@ Replace With Alphabet Position | alphabetPosition.js | codewars | Given a string
 <br>
 <br>
 <br>
+
+## Folder name : Extra :tulip:
+In this folder there is a screenshot of the statement of each challenge.
+
+Pick one randomly, try to resolve it and compare with my solution. :hammer:
+
+
+<br>
+<br>
+<br>
+
 
 
 ## Folder name : Open Class Room. :orange_book:
