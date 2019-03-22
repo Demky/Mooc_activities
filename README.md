@@ -18,10 +18,13 @@ _Solutions que j'ai proposé pour les différentes activitées, toutes les remar
 
 ## Folder name : JavaScript :baby_chick:
 
+Challenge from (_more to come_) :
+- [Codewars](www.codewars.com/r/jVteJg)
 
-Challenge name | file name | website | TODO ?
---- |--- |--- |--- |
-Replace With Alphabet Position | alphabetPosition.js | codewars | Given a string, replace every letter with its position in the alphabet. <br> If anything in the text isn't a letter, ignore it and don't return it.
+Challenge name | file name | website | Difficulty | TODO ?
+--- |--- |--- |--- |--- |
+Replace With Alphabet Position | alphabetPosition.js | codewars | :star: | Given a string, replace every letter with its position in the alphabet. If anything in the text isn't a letter, ignore it and don't return it.
+IQ Test | iqTestBob.js | codewars | :star: | Find the number that differs from the others in evenness
 
 
 <br>
@@ -29,9 +32,8 @@ Replace With Alphabet Position | alphabetPosition.js | codewars | Given a string
 <br>
 
 ## Folder name : Extra :tulip:
-In this folder there is a screenshot of the statement of each challenge.
-
-Pick one randomly, try to resolve it and compare with my solution. :hammer:
+In this folder there is a screenshot of the statement of each challenge.  
+Pick one randomly, try to resolve it and compare with my solution. :dizzy:  
 
 
 <br>
