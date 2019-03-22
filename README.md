@@ -19,7 +19,7 @@ _Solutions que j'ai proposé pour les différentes activitées, toutes les remar
 ## Folder name : JavaScript :baby_chick:
 
 Challenge from (_more to come_) :
-- [Codewars](www.codewars.com/r/jVteJg)
+- [Codewars](https://www.codewars.com/r/jVteJg)
 
 Challenge name | file name | website | Difficulty | TODO ?
 --- |--- |--- |--- |--- |
