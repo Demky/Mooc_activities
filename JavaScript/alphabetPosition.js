@@ -22,3 +22,8 @@ DOC : https://www.w3schools.com/jsref/jsref_trim_string.asp
 > Remove whitespace from both sides of a string:
 */
 // 2019/03/21
+
+// TEST (replace return by console.log()):
+// alphabetPosition("The sunset sets at twelve o' clock.")
+// alphabetPosition("The narwhal bacons at midnight.")
+// alphabetPosition("Boris Belloc was here")
