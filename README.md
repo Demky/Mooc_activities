@@ -28,6 +28,7 @@ IQ Test | iqTestBob.js | codewars | :star: | Find the number that differs from t
 Who likes it? | whoLikes.js | codewars | 0 | Returns a text according to conditions
 Naughty or Nice? | naughtyNice.js | codewars | 0 | make a function that take an array of object as parameter and read a property from it
 Disemvowel Trolls | disemvowel.js | codewars | 0 | Remove vowel from a string
+Format a string of names (..., ... & ...) | nameAmpersand.js | codewars | 0 | Format a string by separating elements with , or &
 
 _difficulty : [0 : basic/beginner]_
 
