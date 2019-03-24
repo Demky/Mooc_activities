@@ -26,6 +26,7 @@ Challenge name | file name | website | Difficulty | TODO ?
 Replace With Alphabet Position | alphabetPosition.js | codewars | :star: | Given a string, replace every letter with its position in the alphabet. If anything in the text isn't a letter, ignore it and don't return it.
 IQ Test | iqTestBob.js | codewars | :star: | Find the number that differs from the others in evenness
 Who likes it? | whoLikes.js | codewars | 0 | Returns a text according to conditions
+Naughty or Nice? | naughtyNice.js | codewards | :star: | make a function that take an array of object as parameter and read a property from it
 
 
 <br>
