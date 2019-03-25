@@ -24,11 +24,13 @@ Challenge from (_more to come_) :
 Challenge name | file name | website | Difficulty | TODO ?
 --- |--- |--- |--- |--- |
 Replace With Alphabet Position | alphabetPosition.js | codewars | :star: | Replace every letter from a string with its position in the alphabet. If anything in the text isn't a letter, ignore it and don't return it.
-IQ Test | iqTestBob.js | codewars | :star: | Find the number that differs from the others in evenness
+IQ Test | iqTestBob.js | codewars | 0 | Find the number that differs from the others in evenness
 Who likes it? | whoLikes.js | codewars | 0 | Returns a text according to conditions
 Naughty or Nice? | naughtyNice.js | codewars | 0 | make a function that take an array of object as parameter and read a property from it
 Disemvowel Trolls | disemvowel.js | codewars | 0 | Remove vowel from a string
 Format a string of names (..., ... & ...) | nameAmpersand.js | codewars | 0 | Format a string by separating elements with , or &
+Duplicate Encoder | duplicateEncoder.js | codewars | :star:+ |  convert a string with "(" if a character appears only once or ")" if that character is duplicated
+
 
 _difficulty : [0 : basic/beginner]_
 
