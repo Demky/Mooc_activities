@@ -28,7 +28,7 @@ IQ Test | iqTestBob.js | 1 | 0 | Find the number that differs from the others in
 Who likes it? | whoLikes.js | 1 | 0 | Returns a text according to conditions
 Naughty or Nice? | naughtyNice.js | 1 | 0 | make a function that take an array of object as parameter and read a property from it
 Disemvowel Trolls | disemvowel.js | 1 | 0 | Remove vowel from a string
-Format a string of names (..., ... & ...) | nameAmpersand.js | codewars | 0 | Format a string by separating elements with , or &
+Format a string of names (..., ... & ...) | nameAmpersand.js | 1 | 0 | Format a string by separating elements with , or &
 Duplicate Encoder | duplicateEncoder.js | 1 | :star:+ |  Convert a string with "(" if a character appears only once or ")" if that character is duplicated
 Sum of Digits / Digital Root | digitalRoot.js | 1 | :star: | Recursive sum of all the digits in a number till there is only 1 digit left
 
