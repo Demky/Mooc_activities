@@ -9,7 +9,7 @@ function alphabetPosition(text) {
   return newText.trim()
 }    
 
-/* RESUME : 
+/* myDoc : 
 # charCodeAt
 DOC : https://www.w3schools.com/jsref/jsref_charcodeat.asp
 > return the Unicode of the first character in a string
@@ -23,7 +23,7 @@ DOC : https://www.w3schools.com/jsref/jsref_trim_string.asp
 */
 // 2019/03/21
 
-// TEST (replace return by console.log()):
-// alphabetPosition("The sunset sets at twelve o' clock.")
-// alphabetPosition("The narwhal bacons at midnight.")
-// alphabetPosition("Boris Belloc was here")
+// TEST :
+// console.log(alphabetPosition("The sunset sets at twelve o' clock."))
+// console.log(alphabetPosition("The narwhal bacons at midnight."))
+// console.log(alphabetPosition("Boris Belloc was here"))

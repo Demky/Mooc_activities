@@ -15,9 +15,9 @@ function escapeRegExp(text) {
   return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&'); // add an escape before special characters '?' -> '\?' ;  '$&' means the whole matched string
 }
 
-/* RESUME : 
-.match() : Retrieves the result of matching a string against a regular expression
-new RegExp() : new RegExp(pattern[, flags]) creates a regular expression object for matching text with a pattern.
+/* myDoc : 
+# .match() : Retrieves the result of matching a string against a regular expression
+# new RegExp() : new RegExp(pattern[, flags]) ; creates a regular expression object for matching text with a pattern.
 */
 
 // TEST :
@@ -37,7 +37,7 @@ function duplicateEncode2(word) {
   return res
 }
 
-/* RESUME :  TODO: I will complete this doc
+/* myDoc :  TODO: I will complete this doc
 [...word] :
 .map() : 
 */

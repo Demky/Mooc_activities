@@ -16,7 +16,7 @@ function likes(names) {
   }
 }
 
-/* RESUME : 
+/* myDoc : 
 Conditions in a Switch case :
 "the only thing necessary is switch(true){...} and for your case expressions to evaluate to booleans.
 It works because, the value we give to the switch is used as the basis to compare against. Consequently, the case expressions, 

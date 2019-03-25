@@ -2,7 +2,7 @@ function disemvowel(str) {
   return str.replace(/[aeiou]/gi, '');
 }
 
-/* RESUME : 
+/* myDoc : 
 `g` tells to find all matches, not just the first.
 `i` tells to be case insensitive.
 

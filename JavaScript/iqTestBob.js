@@ -17,7 +17,7 @@ function iqTest(numbers) {
   return (numbers.indexOf(result) + 1)
 }
 
-/* RESUME : 
+/* myDoc : 
 # .indexOf()
 > returns the first index at which a given element can be found in the array, -1 if it is not present.
 */

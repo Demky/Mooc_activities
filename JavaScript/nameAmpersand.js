@@ -12,11 +12,11 @@ function list(names) {
   return result
 }
 
-// TEST (replace return by console.log()):
-// list([{name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'}])
-// list([{name: 'Bart'},{name: 'Lisa'}])
-// list([{name: 'Bart'},{name: 'Lisa'},{name: 'Maggie'},{name: 'Homer'},{name: 'Marge'}])
-// list([{name: 'Bart'}])
-// list([])
+// TEST :
+// console.log(list([{name: 'Bart'}, {name: 'Lisa'}, {name: 'Maggie'}]))
+// console.log(list([{name: 'Bart'},{name: 'Lisa'}]))
+// console.log(list([{name: 'Bart'},{name: 'Lisa'},{name: 'Maggie'},{name: 'Homer'},{name: 'Marge'}]))
+// console.log(list([{name: 'Bart'}]))
+// console.log(list([]))
 
 // 2019/03/24
