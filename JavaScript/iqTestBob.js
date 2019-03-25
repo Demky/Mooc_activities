@@ -21,4 +21,5 @@ function iqTest(numbers) {
 # .indexOf()
 > returns the first index at which a given element can be found in the array, -1 if it is not present.
 */
+
 // 2019/03/22

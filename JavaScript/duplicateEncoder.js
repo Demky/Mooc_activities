@@ -37,15 +37,15 @@ function duplicateEncode2(word) {
   return res
 }
 
-/* myDoc :  TODO: I will complete this doc
-[...word] :
-.map() : 
-*/
-
 // TEST :
 // console.log(duplicateEncode2("din"))
 // console.log(duplicateEncode2("recede"))
 // console.log(duplicateEncode2("Success"))
 // // console.log(duplicateEncode2("(( @"))
+
+/* myDoc :  TODO: I will complete this doc
+[...word] :
+.map() : 
+*/
 
 // 2019/03/25

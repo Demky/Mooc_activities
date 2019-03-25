@@ -9,6 +9,11 @@ function alphabetPosition(text) {
   return newText.trim()
 }    
 
+// TEST :
+// console.log(alphabetPosition("The sunset sets at twelve o' clock."))
+// console.log(alphabetPosition("The narwhal bacons at midnight."))
+// console.log(alphabetPosition("Boris Belloc was here"))
+
 /* myDoc : 
 # charCodeAt
 DOC : https://www.w3schools.com/jsref/jsref_charcodeat.asp
@@ -21,9 +26,5 @@ DOC UTC CODE : https://www.w3schools.com/charsets/ref_utf_basic_latin.asp
 DOC : https://www.w3schools.com/jsref/jsref_trim_string.asp
 > Remove whitespace from both sides of a string:
 */
-// 2019/03/21
 
-// TEST :
-// console.log(alphabetPosition("The sunset sets at twelve o' clock."))
-// console.log(alphabetPosition("The narwhal bacons at midnight."))
-// console.log(alphabetPosition("Boris Belloc was here"))
+// 2019/03/21
