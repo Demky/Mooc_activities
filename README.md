@@ -31,6 +31,7 @@ Disemvowel Trolls | disemvowel.js | 1 | 0 | Remove vowel from a string
 Format a string of names (..., ... & ...) | nameAmpersand.js | 1 | 0 | Format a string by separating elements with , or &
 Duplicate Encoder | duplicateEncoder.js | 1 | :star:+ |  Convert a string with "(" if a character appears only once or ")" if that character is duplicated
 Sum of Digits / Digital Root | digitalRoot.js | 1 | :star: | Recursive sum of all the digits in a number till there is only 1 digit left
+Mumbling | mumbling.js | 1 | 0 | Return a string as "abcd" -> "A-Bb-Ccc-Dddd"
 
 
 _difficulty : [0 : basic/beginner]_
