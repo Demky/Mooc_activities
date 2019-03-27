@@ -1,5 +1,5 @@
 # Online Challenges :construction_worker:
-Practical work from differents online MOOC, Exercices, Tests; any Challenges.
+Practical work from differents online Challenges, Exercices, Tests.
 <br><br>
 
 _only approved solutions, all remarks are welcomes_
