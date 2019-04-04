@@ -22,7 +22,7 @@ Challenge from (_more to come_) :
 - 1 : [Codewars](https://www.codewars.com/r/jVteJg)
 
 
-:arrow_double_down: From Newest to older
+:arrow_double_down: From Newest to oldest
 
 Challenge name | file name | website | Difficulty | TODO ?
 --- |--- |--- |--- |--- |
