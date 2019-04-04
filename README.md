@@ -23,6 +23,7 @@ Challenge from (_more to come_) :
 
 
 :arrow_double_down: From Newest to older
+
 Challenge name | file name | website | Difficulty | TODO ?
 --- |--- |--- |--- |--- |
 Mexican Wave | mexicanWave.js | 1 | 0 | Make a wave inside a string
