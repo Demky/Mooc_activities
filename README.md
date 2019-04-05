@@ -26,6 +26,7 @@ Challenge from (_more to come_) :
 
 Challenge name | file name | website | Difficulty | TODO ?
 --- |--- |--- |--- |--- |
+Two fighters, one winner | twoFighters.js | 1 | 0 | two _objects_ fight with their _properties_; write a function to tell who win
 Mexican Wave | mexicanWave.js | 1 | 0 | Make a wave inside a string
 Mumbling | mumbling.js | 1 | 0 | Return a string as "abcd" -> "A-Bb-Ccc-Dddd"
 Sum of Digits / Digital Root | digitalRoot.js | 1 | :star: | Recursive sum of all the digits in a number till there is only 1 digit left
