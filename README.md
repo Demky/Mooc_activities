@@ -19,7 +19,7 @@ _Solutions que j'ai proposé pour les différentes activitées, toutes les remar
 ## Folder name : JavaScript :baby_chick:
 
 Challenge from (_more to come_) :
-- 1 : [Codewars](https://www.codewars.com/r/jVteJg) <img align="right" src="https://www.codewars.com/users/Boris%20BELLOC/badges/large">
+- 1 : [Codewars](https://www.codewars.com/r/jVteJg) <img align="right" height="30" src="https://www.codewars.com/users/Boris%20BELLOC/badges/large">
 
 
 <br>
