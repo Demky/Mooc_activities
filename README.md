@@ -1,18 +1,35 @@
-# Online Challenges :construction_worker:
-**Online Challebges** (practical work from differents online Challenges, exercices or tests), **Algorithms** and **Recruitment tests**. 
+# onlineChallenges_Algorithms_RecruitmentTests :construction_worker:
+in this repository : **Online Challenges** (practical work from differents online Challenges, exercices or tests), **Algorithms** and **Recruitment tests**. 
 <br><br>
 
-_only approved solutions, all remarks are welcomes_
+_all remarks are welcomes_
 
+:triangular_flag_on_post:  For better comprehension, the folder list is ordered in ascending Order:arrow_up_small: .
 ------
 
+* RecruitmentTests
+* Algorithms
+* Online Challenges
 
 
+# :speedboat: RecruitmentTests
 
+Here some recruitments test I have met in my past interviews for jobs.
+<br>
+<br>
+_coming soon_
+
+<br>
+
+# :gem: Algorithms
 
 <br>
 <br>
+Must know Algorithms (to be completed).
 <br>
+
+# :mortar_board: Online Challenges
+_only approved solutions_
 
 ## Folder name : JavaScript :baby_chick:
 
