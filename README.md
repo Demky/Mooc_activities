@@ -1,10 +1,8 @@
 # Online Challenges :construction_worker:
-Practical work from differents online Challenges, Exercices, Tests.
+**Online Challebges** (practical work from differents online Challenges, exercices or tests), **Algorithms** and **Recruitment tests**. 
 <br><br>
 
 _only approved solutions, all remarks are welcomes_
-
-_Solutions que j'ai proposé pour les différentes activitées, toutes les remarques sont les bienvenues_
 
 ------
 
