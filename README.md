@@ -15,9 +15,15 @@ _all remarks are welcomes_
 # :speedboat: RecruitmentTests
 
 Here some recruitments test I have met in my past interviews for jobs.
+Feel free to send more.
 <br>
 <br>
 _coming soon_
+
+- Sort an array
+
+Must know recruitments test :
+- Fizz Buzz _coming soon_
 
 <br>
 
@@ -26,6 +32,9 @@ _coming soon_
 <br>
 <br>
 Must know Algorithms (to be completed).
+
+Enter Algorithms folder to see the list.
+
 <br>
 
 # :mortar_board: Online Challenges
