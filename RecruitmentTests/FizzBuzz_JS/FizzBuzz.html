@@ -1,0 +1,49 @@
+<!-- 
+
+    Ecrivez un programme fizzbuzz.js qui affiche tous les nombres entre 1 et 100 avec les exceptions suivantes :
+
+    - Il affiche "Fizz" à la place du nombre si celui-ci est divisible par 3.
+    - il affiche "Buzz" à la place du nombre si celui-ci est divisible par 5 et non par 3.
+    - Ensuite, améliorez votre programme pour qu'il affiche "FizzBuzz" à la place des nombres divisibles à la fois par 3 et par 5.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Fizz Buzz</title>
+</head>
+<body>
+
+    <script>
+
+    // boris 09/10/2018
+
+    // pseudo code:
+    // pour i de 0 a 100;
+
+    // if i % 3 && !% 5  -> fizz
+    // else if i % 5 && !%3 -> buzz
+    // else if i % 5 && %3 -> fizzbuzz
+
+    for (var i = 0; i <= 100; i++) {
+        if (i % 3 === 0 && !(i % 5 === 0)){
+            console.log ("Fizz " + i);
+        }
+        else if (i % 5 === 0 && !(i % 3 === 0)){
+            console.log ("Buzz " + i);
+        }
+        else if ((i % 3 === 0) && (i % 5 === 0)) {
+            console.log ("FizzBuzz " + i);
+        }
+        else {
+            console.log ("else -> " + i);
+        }
+    }
+    
+
+    
+    </script>
+    
+</body>
+</html>

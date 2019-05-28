@@ -14,16 +14,18 @@ _all remarks are welcomes_
 
 # :speedboat: RecruitmentTests
 
+
 Here some recruitments test I have met in my past interviews for jobs.
-Feel free to send more.
+
+Feel free to send more; if you had any interesting test.
 <br>
 <br>
-_coming soon_
 
-- Sort an array
+what |  availlable solution | folder | from where ?
+---| ---| ---| ---
+Sort an array | _coming soon_ | / | IT startup
+Fizz Buzz | JS | FizzBuzz_JS | Culture, well known test in IT world
 
-Must know recruitments test :
-- Fizz Buzz _coming soon_
 
 <br>
 
