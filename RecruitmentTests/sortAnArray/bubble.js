@@ -1,6 +1,8 @@
 // Test at an IT startup in France; Avignon(84)
 // 2019/04/26
 
+// This solution use bubble sort
+
 const arr = [5, 1, 8, 7, 5, 10];
 let isChanged = true; // flag is used to stop if the array is already sorted ; no need to go till the end of array
 
