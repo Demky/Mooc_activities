@@ -15,7 +15,7 @@ _all remarks are welcomes_
 # :speedboat: RecruitmentTests
 
 
-Here some recruitments test I have met in my past interviews for jobs.
+Here some recruitments tests I have met in my past interviews for jobs.
 
 Feel free to send more; if you had any interesting test.
 <br>
@@ -23,7 +23,7 @@ Feel free to send more; if you had any interesting test.
 
 what |  availlable solution | folder | from where ?
 ---| ---| ---| ---
-Sort an array | _coming soon_ | / | IT startup
+Sort an array | _coming soon_ | / | IT enterprise at Avignon(84), France; 2019/04/26
 Fizz Buzz | JS | FizzBuzz_JS | Culture, well known test in IT world
 
 
