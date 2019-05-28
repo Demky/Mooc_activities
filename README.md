@@ -23,7 +23,7 @@ Feel free to send more; if you had any interesting test.
 
 what |  availlable solution | folder | from where ?
 ---| ---| ---| ---
-Sort an array | _coming soon_ | / | IT enterprise at Avignon(84), France; 2019/04/26
+Sort an array | JS | sortAnArray | IT enterprise at Avignon(84), France; 2019/04/26
 Fizz Buzz | JS | FizzBuzz_JS | Culture, well known test in IT world
 
 
