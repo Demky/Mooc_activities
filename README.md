@@ -10,6 +10,7 @@ _all remarks are welcomes_
 * RecruitmentTests
 * Algorithms
 * Online Challenges
+* Screenshots -> ready to print _must know_ stuffs
 
 
 # :speedboat: RecruitmentTests
@@ -39,7 +40,7 @@ Enter Algorithms folder to see the list.
 
 <br>
 
-# :mortar_board: Online Challenges
+# :mortar_board: OnlineChallenges
 _only approved solutions_
 
 ## Folder name : JavaScript :baby_chick:
