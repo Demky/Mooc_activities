@@ -5,7 +5,8 @@
     - Il affiche "Fizz" à la place du nombre si celui-ci est divisible par 3 et non par 5.
     - il affiche "Buzz" à la place du nombre si celui-ci est divisible par 5 et non par 3.
     - Ensuite, améliorez votre programme pour qu'il affiche "FizzBuzz" à la place des nombres divisibles à la fois par 3 et par 5.
---><!--
+-->
+<!--
     #EN
     Write a program that displays all numbers between 1 and 100 with the following exceptions:
 
@@ -14,16 +15,7 @@
     - Then, improve your program so that it displays "FizzBuzz" instead of the numbers divisible by 3 and 5 at the same time.
 -->
 
-<!DOCTYPE html>
-<html>
-<head>
-
-    <title>Fizz Buzz</title>
-</head>
-<body>
-
-    <script>
-
+<script>
     // boris 09/10/2018
 
     // pseudo code:
@@ -34,23 +26,18 @@
     // else if i % 5 && %3 -> fizzbuzz
 
     for (var i = 0; i <= 100; i++) {
-        if (i % 3 === 0 && !(i % 5 === 0)){
-            console.log ("Fizz " + i);
-        }
-        else if (i % 5 === 0 && !(i % 3 === 0)){
-            console.log ("Buzz " + i);
-        }
-        else if ((i % 3 === 0) && (i % 5 === 0)) {
-            console.log ("FizzBuzz " + i);
-        }
-        else {
-            console.log ("else -> " + i);
+        if (i % 3 === 0 && !(i % 5 === 0)) {
+            console.log("Fizz " + i);
+        } else if (i % 5 === 0 && !(i % 3 === 0)) {
+            console.log("Buzz " + i);
+        } else if ((i % 3 === 0) && (i % 5 === 0)) {
+            console.log("FizzBuzz " + i);
+        } else {
+            console.log("else -> " + i);
         }
     }
-    
+</script>
 
-    
-    </script>
-    
 </body>
+
 </html>

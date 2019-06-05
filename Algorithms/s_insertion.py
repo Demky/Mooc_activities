@@ -1,4 +1,4 @@
-# We act as if the elements to be sorted were given one by one,
+# In Insertion sort, we act as if the elements to be sorted were given one by one,
 
 # The first constituent element, by itself, a sorted list of length 1.
 # The second element is then put in order to constitute a sorted list of length 2,
@@ -13,11 +13,11 @@ lstTemp = []
 i = 0
 for i in range(0, len(lst)) :
     counter = 0          # initial counter at each loop
-    while counter < len(lstTemp) and lstTemp[counter] < lst[i] :
+    while counter < len(lstTemp) and lstTemp[counter] < lst[i] : # for Descending order change to : lstTemp[counter] > lst[i]
         counter += 1
 
     lstTemp.insert (counter, lst[i])
     print("sorting in progress -> {}".format(lstTemp))
 
-
 print("## sorted list {}".format(lstTemp))
+
