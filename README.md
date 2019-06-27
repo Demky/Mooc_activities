@@ -24,8 +24,9 @@ Feel free to send more; if you had any interesting test.
 
 what |  availlable solution | folder | from where ?
 ---| ---| ---| ---
-Sort an array | JS | sortAnArray | IT enterprise at Avignon(84), France; 2019/04/26
-Fizz Buzz | JS | FizzBuzz_JS | Culture, well known test in IT world
+From an array, return even numbrer; HTML/CSS test | | 2_Ioc | It enterprise at Montpellier(34), France; 2019/06/13
+Sort an array | JS | 1_sortAnArray | IT enterprise at Avignon(84), France; 2019/04/26
+Fizz Buzz | JS | 0_FizzBuzz_JS | Culture, well known test in IT world
 
 
 <br>
