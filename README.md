@@ -91,6 +91,7 @@ Challenge from  : [codingame](https://www.codingame.com/profile/ef3244ce8ff4b09c
 
 Challenge name | file name | Solution Language | Difficulty | TODO ?
 --- |--- |--- |--- |--- |
+mars-lander-episode-1 | mars-lander-episode-1.java | Java | easy | [link](https://www.codingame.com/training/easy/mars-lander-episode-1)
 the-descent | the-descent.py | Python | easy | [link](https://www.codingame.com/training/easy/the-descent)
 
 
