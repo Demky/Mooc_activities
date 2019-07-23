@@ -45,9 +45,9 @@ Enter Algorithms folder to see the list.
 
 :cocktail: List of differents interesting websites with coding games/challenges :
 
-* [www.sololearn.com](https://www.sololearn.com/Profile/7975206)
-* [www.codewars.com](www.codewars.com/r/jVteJg)
-* [www.codingame.com](https://www.codingame.com/profile/ef3244ce8ff4b09c289cc218e0699e2f4099452)
+* [www.sololearn.com](https://www.sololearn.com/Profile/7975206) | Challenges pvp/courses
+* [www.codewars.com](www.codewars.com/r/jVteJg) | challenges
+* [www.codingame.com](https://www.codingame.com/profile/ef3244ce8ff4b09c289cc218e0699e2f4099452) | challenges
 * [https://exercism.io/](https://exercism.io/) <- never tried
 
 
