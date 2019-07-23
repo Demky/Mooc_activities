@@ -9,7 +9,7 @@ _all remarks are welcomes_
 
 * RecruitmentTests
 * Algorithms
-* Online Challenges
+* Online Challenges (codewars; codingame)
 * Screenshots -> ready to print _must know_ stuffs
 
 
