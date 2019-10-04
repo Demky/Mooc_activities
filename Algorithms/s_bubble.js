@@ -12,7 +12,7 @@ let isChanged = true; // flag is used to stop if the array is already sorted ; n
 while (isChanged) {
     isChanged = false
     for ( let i = 0; i <= arr.length; i++) {
-        for ( let j = 0; j <= (arr.length - 1 - i); j++) { // a sorted number is no more sorted
+        for ( let j = 0; j < (arr.length - 1 - i); j++) { // a sorted number is no more sorted
             if (arr[j] > arr[j+1]) {
                 const tempStock = arr[j];
                 arr[j] = arr[j+1];
